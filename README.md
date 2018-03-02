@@ -1,5 +1,4 @@
 # mlnotes
 
-To launch a runnable jupyter notebook, click here:
+Go to [Azure](https://notebooks.azure.com/pchalasani/libraries/mlnotes) to run the notebooks!
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pchalasani/mlnotes/master)
